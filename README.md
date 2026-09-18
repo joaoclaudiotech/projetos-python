@@ -15,7 +15,7 @@ Python
 ## 📁 Projetos
 
 ### Iniciante
-- [ ] Calculadora
+- [x] [Calculadora](./calculadora)
 - [ ] ...
 
 ### Intermediário
